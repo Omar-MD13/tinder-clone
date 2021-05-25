@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tinder-clone/static/css/main.c97717bb.chunk.css",
+    "main.js": "/tinder-clone/static/js/main.a7527e9f.chunk.js",
+    "main.js.map": "/tinder-clone/static/js/main.a7527e9f.chunk.js.map",
+    "runtime-main.js": "/tinder-clone/static/js/runtime-main.082f084c.js",
+    "runtime-main.js.map": "/tinder-clone/static/js/runtime-main.082f084c.js.map",
+    "static/js/2.7bf4bbd7.chunk.js": "/tinder-clone/static/js/2.7bf4bbd7.chunk.js",
+    "static/js/2.7bf4bbd7.chunk.js.map": "/tinder-clone/static/js/2.7bf4bbd7.chunk.js.map",
+    "static/js/3.190e4788.chunk.js": "/tinder-clone/static/js/3.190e4788.chunk.js",
+    "static/js/3.190e4788.chunk.js.map": "/tinder-clone/static/js/3.190e4788.chunk.js.map",
+    "index.html": "/tinder-clone/index.html",
+    "static/css/main.c97717bb.chunk.css.map": "/tinder-clone/static/css/main.c97717bb.chunk.css.map",
+    "static/js/2.7bf4bbd7.chunk.js.LICENSE.txt": "/tinder-clone/static/js/2.7bf4bbd7.chunk.js.LICENSE.txt",
+    "static/media/Elon_musk.b1ef6853.jpg": "/tinder-clone/static/media/Elon_musk.b1ef6853.jpg",
+    "static/media/Jeff_bezos.4e5b5c77.jpg": "/tinder-clone/static/media/Jeff_bezos.4e5b5c77.jpg",
+    "static/media/tinder_logo.5a558d9e.png": "/tinder-clone/static/media/tinder_logo.5a558d9e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.082f084c.js",
+    "static/js/2.7bf4bbd7.chunk.js",
+    "static/css/main.c97717bb.chunk.css",
+    "static/js/main.a7527e9f.chunk.js"
+  ]
+}
